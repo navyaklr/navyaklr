@@ -17,7 +17,7 @@ Founder and healthcare data analyst specializing in data analytics, and artifici
 Open to partnering on projects involving healthcare analytics, AI applications, and cybersecurity.
 
 ## 📫 Contact
-- Email: your.email@example.com  
+- Email: kilaruns@nerdytrix.com
 - LinkedIn: linkedin.com/in/navyaklr  
 - GitHub: github.com/navyaklr  
 
